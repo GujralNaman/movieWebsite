@@ -4,7 +4,7 @@
 I've developed the frontEnd of an OTT plattform which includes various pages including :- Homepage, Contact Us, Login/ SignUp Page and even 404 Page. (Page not found)
 The website is responsive and works quite well on different Screen Sizes.
 *************
-The Contact Us form data will get saved and the admin got the responses via email. It is basically a kind of database storage for the contact us form. The part that is not yet available, the server redirects it to a cool 404 page which is also developed by me.
+The Contact Us form data will get saved and the admin will get the responses via email. It is basically a kind of database storage for the contact us form. Also, there is an another interesting feature developed by me in which the server will redirect it to a cool 404 web page for the part which is not yet available.
 ************
 We also have a cool login/SignUp page which have a scrolling animation feature which looks very trending.
 
@@ -43,9 +43,7 @@ You can check the Deployment using :-
 
 ## Optimizations
 
-As of now, I'm not much aware about Backend part but in the upcoming days, I'll definitely learn the backend development and will improve my project also.
-
-
+Presently I'm learning backend part and working on it and in the upcoming days, I'll definitekly be good at backend Development also which will further improve my project.
 
 ## Support
 
