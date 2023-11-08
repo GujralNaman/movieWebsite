@@ -29,6 +29,7 @@ We also have a cool login/SignUp page which have a scrolling animation feature w
 ![Screenshot (3)](https://github.com/GujralNaman/movieWebsite/assets/96351397/38eacfcb-6e67-4c80-84b8-1b38991b638d)
 ![Screenshot (5)](https://github.com/GujralNaman/movieWebsite/assets/96351397/5c42e494-f530-49ee-bc2a-183ffe7c8d7f)
 ![Screenshot (8)](https://github.com/GujralNaman/movieWebsite/assets/96351397/47c9825c-ee81-4cb1-ae9d-8f082fa8a7c0)
+![Movie Website and 1 more page - Personal - Microsoft_ Edge 2023-11-08 18-37-59 (2)](https://github.com/GujralNaman/movieWebsite/assets/96351397/0ce2f48a-fb16-4814-98fb-41a661f1971b)
 
 
 ## Deployment
